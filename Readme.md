@@ -29,15 +29,21 @@ visit
 - Clone or download and unzip the repository from github https://github.com/umedith/Galle-reine.git
 - You can use this command (git clone my link) to clone the project to your machine if you have git .
 - cd into the project folder and open in text editor.
-install virtual environment then activate it
-edit and run the project
-Known bugs
+- install virtual environment then activate it
+- edit and run the project
+
+## Known bugs
+
 No known bugs so far. If found drop me an email.
 
-Contributors
+## Contributors
+
 Edith reine
-Contact
+
+## Contact
+
 email: umedith03@gmail.com
 
-License and terms of use
+## License and terms of use
+
 MIT License 2020 Edith reine
