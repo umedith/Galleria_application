@@ -20,7 +20,8 @@ HTML, CSS and Bootstrap
 JavaScript
 Postgressql
 Heroku
-Live site
+
+## Live site
 visit
 
 Setup and installation
