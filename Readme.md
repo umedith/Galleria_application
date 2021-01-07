@@ -7,7 +7,7 @@ This is a photo gallery web application to showcase beautiful pictures. Users ge
 
 ## Features
 
-The home page allows users to see various images:
+- The home page allows users to see various images:
 User can see all images per location they were taken
 Users can also search for images based categories
 Admin can upload images from a django dashboard
