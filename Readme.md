@@ -24,8 +24,9 @@ Heroku
 ## Live site
 visit
 
-Setup and installation
-Clone or download and unzip the repository from github https://github.com/umedith/Galle-reine.git
+## Setup and installation
+
+- Clone or download and unzip the repository from github https://github.com/umedith/Galle-reine.git
 You can use this command (git clone my link) to clone the project to your machine if you have git .
 cd into the project folder and open in text editor.
 install virtual environment then activate it
