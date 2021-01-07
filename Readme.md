@@ -12,7 +12,8 @@ This is a photo gallery web application to showcase beautiful pictures. Users ge
 - Users can also search for images based categories
 - Admin can upload images from a django dashboard
 
-Technologies Used
+## Technologies Used
+
 Python 3.6
 Django MVC framework
 HTML, CSS and Bootstrap
