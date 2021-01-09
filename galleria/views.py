@@ -6,7 +6,7 @@ from .models import Image, Location, Category
 # Create your views here.
 def gallery(request):
     all_pics = Image.all_pics()
-    print(all_pics)
+    # print(all_pics)
     return render(request, 'gallery.html',{"galleria":all_pics})
 
 def search_results(request):
