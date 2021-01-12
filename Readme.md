@@ -22,7 +22,7 @@ Postgressql
 Heroku
 
 ## Live site
-visit
+visit https://eddgalleria.herokuapp.com/
 
 ## Setup and installation
 
